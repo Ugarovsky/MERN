@@ -1,0 +1,21 @@
+{
+  "name": "my-mern-love-stack",
+  "version": "1.0.0",
+  "description": "mern",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "server": "nodemon app.js"
+  },
+  "keywords": [
+    "mern",
+    "react"
+  ],
+  "author": "Pipko Vladislav, pipko-v@inbox.ru",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.10"
+  }
+}
